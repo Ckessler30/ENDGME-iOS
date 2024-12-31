@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  ENDGME
+//
+//  Created by Chase Kessler on 12/28/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+SUPABASE_URL = https://vzzcvnumbdwgdacylodk.supabase.co
+SUPABASE_ANON_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ6emN2bnVtYmR3Z2RhY3lsb2RrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU0MDMzMjcsImV4cCI6MjA1MDk3OTMyN30.8UniBxAN7UOb1UcyDrikOqfTnRb1520H6aHc2Gom-Gk

@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  MainView.swift
 //  ENDGME
 //
 //  Created by Chase Kessler on 12/28/24.
@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
+        HStack {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
